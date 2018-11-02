@@ -13,6 +13,7 @@
   "author": "raeleneqiu",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.6.1"
+    "koa": "^2.6.1",
+    "koa-router": "^7.4.0"
   }
 }
